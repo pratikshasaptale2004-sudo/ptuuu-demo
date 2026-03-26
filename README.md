@@ -1,2 +1,2 @@
 # ptuuu-demo
-This is my first Repositary. 1st
+This is my first git Repositary. 1st
